@@ -4,5 +4,7 @@
     <string name="to_home">To Home</string>
     <string name="home">Home</string>
     <string name="chat">Chat</string>
+    <string name="enter_your_message">Enter your message...</string>
+    <string name="send">SEND</string>
 
 </resources>
